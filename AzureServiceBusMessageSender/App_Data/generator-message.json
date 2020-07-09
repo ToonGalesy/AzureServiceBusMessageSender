@@ -1,0 +1,31 @@
+{
+    "Header": {
+        "MajorSemVer": 2,
+        "MinorSemVer": 0,
+        "PatchSemVer": 0,
+        "OrganisationId": "a59c8d5d-cadd-9714-6c80-4e1dbbb22961",
+        "JobId": "74961239-6EA3-4F61-A3C9-ACA62ACDA5D2",
+        "TaskId": "38868f72-dd97-428e-8dad-4e2d516b1ce7",
+        "Alg": "",
+        "Kid": "",
+        "SourceFormat": "HTML",
+        "TargetFormat": "PDF",
+        "MessageNumber": 1,
+        "TotalMessageCount": 30
+    },
+    "Body": {
+        "Source": {
+            "Type": "MessageStore",
+            "Location": "https://sims.w10pc7354.css.ad.capita.co.uk/MessageStoreService/api/v1/message/38868f72-dd97-428e-8dad-4e2d516b1ce7?ttlMinutes=30"
+        },
+        "Target": {
+            "Type": "MessageStore",
+            "Location": "https://sims.w10pc7354.css.ad.capita.co.uk/MessageStoreService/api/v1/message/38868f72-dd97-428e-8dad-4e2d516b1ce7?ttlMinutes=30"
+        },
+        "SecurityDomains": [
+            "Learner.Personal",
+            "Learner.ContactDetails",
+            "Learner.Dietary"
+        ]
+    }
+}
